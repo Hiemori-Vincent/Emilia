@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Re:Zero - Starting Life in Another World</title>
+    <link href='https://fonts.googleapis.com/css?family=Adamina' rel='stylesheet'>
+    <style>
+    .myDiv {
+  border: 5px outset black;
+  background-color: lightblue;
+  text-align: left;
+}
+    p {
+            color:black;
+            font-family: 'Adamina';
+        } 
+    h1 {
+            color: rgb(0,255,255);
+            font-family: 'Adamina';font-size: 45px;
+        } 
+    h2 {
+            color: black;
+            font-family: 'Adamina';font-size: 60px;
+        } 
+    h3 {
+            color: rgb(0,255,255);
+            font-family: 'Adamina';font-size: 30px;
+       	} 
+    /* "This content was created with the help of A.I." */body {
+            background-image: url('https://preview.redd.it/media-beautiful-emilia-wallpaper-v0-jtih7o0ferja1.jpg?width=1080&crop=smart&auto=webp&s=919ac08feb25983a3712cc1f9e6377be228eaba9');
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-attachment: fixed;
+            background-position: 50% -100px; 
+        }
+        /* "This content was created with the help of A.I." */.custom-paragraph {
+            font-size: 20px;
+            
+        }
+        img {
+            vertical-align: middle;
+            margin-left: 10px;
+        }/* "This content was created with the help of A.I." */
+        .inline {
+            display: flex;
+            align-items: center;
+        }/* "This content was created with the help of A.I." */
+        .black-text {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+	<h1>Re:Zero - Starting Life in Another World</h1>
+    <h1>The Movies</h1>
+    <div class="myDiv">
+  <h1 class="black-text">Re:Zero - Starting Life in Another World and The Frozen Bond</h1>
+  <p><img src="https://m.media-amazon.com/images/M/MV5BMjc1ODg4NmQtNzRkNi00NmZkLWE2MTAtYTJiODYxY2FkZDc0XkEyXkFqcGc@._V1_.jpg" width=200px;>
+</div>
+<div class="myDiv"><br> </br><br>Release Year: 2019</br><br>director: Masaharu Watanabe</br><br>Company: White Fox Co., Ltd.</br><br>Summary: Emilia lives in a secluded forest covered in snow with the spirit Puck. <br>The forest holds a secret:</br> the elf who once lived there have been frozen into ice. (From Google)</br></p></div>
+<div class="myDiv"><br> </br><br>Release Year: 2018</br><br>director: Masaharu Watanabe</br><br>Company: White Fox Co., Ltd.</br><br>Summary: Summaries. Subaru and friends defeat the Demon Beast Wolgarm, the source of the curse, and save the children of Irlam village. The characters finally get a moment of peace, and Subaru goes on a certain secret mission that he must not let anyone find out about. (From IMDb)</br></p></div>
+<div class="myDiv"><h1 class="black-text">Other Movies in the Series</h1>There are only 2 movies in the series but there are 3 seasons. <br> </br> <ul>Re:Zero - Starting Life in Another World Season 1; 2016; Masaharu Watanabe; White Fox Co., Ltd.</ul> <ul>Re:Zero - Starting Life in Another World Season 2; 2021; Masaharu Watanabe; White Fox Co., Ltd.</ul><ul>Re:Zero - Starting Life in Another World Season 3; 2024; Masaharu Watanabe; White Fox Co., Ltd.</ul></ul>
+</body>
+</html>
